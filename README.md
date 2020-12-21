@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![JKUN's github stats](https://github-readme-stats.vercel.app/api?username=wjkbfq&show_icons=true&theme=radical&count_private=true) 
+![JKUN's github stats](https://github-readme-stats.vercel.app/api?username=wjkbfq&show_icons=true&theme=vue&count_private=true)
 
 - 🔭 I’m currently working on "Software-Hardware Co-design of AI-Enabled Real-time Bio-system", "Cognitive Neuromorphic Systems".
 - 🌱 I’m currently learning Software-Hardware Co-design.
@@ -12,10 +12,6 @@
 - ⚡ Fun fact: blog & cook & diy.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjkbfq&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 
 <!--
