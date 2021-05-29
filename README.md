@@ -2,7 +2,8 @@
 
 ![JKUN's github stats](https://github-readme-stats.vercel.app/api?username=wjkbfq&show_icons=true&theme=vue&count_private=true)
 
-- 🔭 I’m currently working on "Software-Hardware Co-design of AI-Enabled Real-time Bio-system", "Cognitive Neuromorphic Systems".
+- 🔭 I’m currently working on "Algorithm-Architecture Co-design of AI-Enabled Real-time Bio-systemAI対応のリアルタイムバイオシステムのアルゴリズムとアーキテクチャの共同設計![image](https://user-images.githubusercontent.com/12618218/120075963-6bdf4880-c0de-11eb-8fc8-01729500e4f3.png)
+".
 - 🌱 I’m currently learning Software-Hardware Co-design.
 - 👯 I’m looking to collaborate on Software-Hardware Co-design Bio-system.
 - 🤔 I’m looking for help with Neuromorphic.
