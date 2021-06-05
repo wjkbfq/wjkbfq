@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=wjkbfq&color=green)
 
 ![JKUN's github stats](https://github-readme-stats.vercel.app/api?username=wjkbfq&show_icons=true&theme=vue&count_private=true)
 
